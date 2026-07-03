@@ -49,7 +49,7 @@ export function About() {
             <div className="relative z-10 flex h-full flex-col justify-between">
               <div>
                 <p className="text-sm font-semibold uppercase tracking-[0.24em] text-violet">
-                  Current Focus on somthing new
+                  Current Focus
                 </p>
                 <h3 className="mt-4 text-3xl font-bold leading-tight sm:text-4xl">
                   Production AI systems with full-stack ownership.

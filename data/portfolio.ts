@@ -25,7 +25,7 @@ export const profile = {
   resumeUrl: "/resume.pdf",
   linkedin: "https://www.linkedin.com/in/aman-dixit-1a999117a/",
   socials: [
-    { label: "GitHub", href: "https://github.com/", icon: Github },
+    { label: "GitHub", href: "https://github.com/Aman0111/", icon: Github },
     { label: "LinkedIn", href: "https://www.linkedin.com/in/aman-dixit-1a999117a/", icon: Linkedin },
     { label: "Email", href: "mailto:dixitaman.now.wwe@gmail.com", icon: Mail }
   ]
